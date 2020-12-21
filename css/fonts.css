@@ -1,0 +1,50 @@
+@font-face {
+	font-family: "Montserrat-Regular";
+	src: url("../fonts/Montserrat-Regular/Montserrat-Regular.eot");
+	src: url("../fonts/Montserrat-Regular/Montserrat-Regular.eot?#iefix")format("embedded-opentype"),
+	url("../fonts/Montserrat-Regular/Montserrat-Regular.woff") format("woff"),
+	url("../fonts/Montserrat-Regular/Montserrat-Regular.ttf") format("truetype");
+	font-style: normal;
+	font-weight: normal;
+}
+
+@font-face {
+	font-family: "Montserrat-Bold";
+	src: url("../fonts/Montserrat-Bold/Montserrat-Bold.eot");
+	src: url("../fonts/Montserrat-Bold/Montserrat-Bold.eot?#iefix")format("embedded-opentype"),
+	url("../fonts/Montserrat-Bold/Montserrat-Bold.woff") format("woff"),
+	url("../fonts/Montserrat-Bold/Montserrat-Bold.ttf") format("truetype");
+	font-style: normal;
+	font-weight: normal;
+}
+
+@font-face {
+	font-family: "PlayfairDisplay-Italic";
+	src: url("../fonts/PlayfairDisplay-Italic/PlayfairDisplay-Italic.eot");
+	src: url("../fonts/PlayfairDisplay-Italic/PlayfairDisplay-Italic.eot?#iefix")format("embedded-opentype"),
+	url("../fonts/PlayfairDisplay-Italic/PlayfairDisplay-Italic.woff") format("woff"),
+	url("../fonts/PlayfairDisplay-Italic/PlayfairDisplay-Italic.ttf") format("truetype");
+	font-style: normal;
+	font-weight: normal;
+}
+
+@font-face {
+	font-family: "RobotoCondensed-Bold";
+	src: url("../fonts/RobotoCondensed-Bold/RobotoCondensed-Bold.eot");
+	src: url("../fonts/RobotoCondensed-Bold/RobotoCondensed-Bold.eot?#iefix")format("embedded-opentype"),
+	url("../fonts/RobotoCondensed-Bold/RobotoCondensed-Bold.woff") format("woff"),
+	url("../fonts/RobotoCondensed-Bold/RobotoCondensed-Bold.ttf") format("truetype");
+	font-style: normal;
+	font-weight: normal;
+}
+
+@font-face {
+	font-family: "Raleway-Regular";
+	src: url("../fonts/Raleway-Regular/Raleway-Regular.eot");
+	src: url("../fonts/Raleway-Regular/Raleway-Regular.eot?#iefix")format("embedded-opentype"),
+	url("../fonts/Raleway-Regular/Raleway-Regular.woff") format("woff"),
+	url("../fonts/Raleway-Regular/Raleway-Regular.ttf") format("truetype");
+	font-style: normal;
+	font-weight: normal;
+}
+
